@@ -11,7 +11,7 @@ A small library providing utility methods to `escape` and `unescape` HTML entiti
 
 ## Usage
 
-  var scapegoat = require('tutscapegoat')
+  var scapegoat = require('tutscapegoat');
       escape = scapegoat.escape,
       unescape = scapegoat.unescape;
 
