@@ -1,0 +1,28 @@
+{
+  "name": "tutscapegoat",
+  "version": "0.1.0",
+  "description": "html escape module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikeks81/tutScapeGoat.git"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html"
+  ],
+  "author": "Michael Simonitsch <mikeks81@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mikeks81/tutScapeGoat/issues"
+  },
+  "homepage": "https://github.com/Mikeks81/tutScapeGoat#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
